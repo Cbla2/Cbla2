@@ -1,7 +1,11 @@
-## Hi there 👋I'm Caroline
+## Hi there I'm Caroline . ݁₊ ⊹ . ݁˖ . ݁
 
-3rd year Computer Science student 
+3rd year Computer Science student at George Mason University
 
+I'm currently working on **KaleidoDraw** - a React + Typescript generative art tool that combining a drawing canvas, audio-reactive visuals, and hand gesture input
+I am also exploring ML creative tools and focusing on full-stack development 
+
+Outside of programming, I love drawing and am a huge fan of digital art 
 <!--
 **Cbla2/Cbla2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
