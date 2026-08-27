@@ -3,6 +3,7 @@
 3rd year Computer Science student at George Mason University
 
 I'm currently working on **KaleidoDraw** - a React + Typescript generative art tool combining a drawing canvas, audio-reactive visuals, and hand gesture input
+
 I am also exploring ML creative tools and focusing on full-stack development 
 
 Outside of programming, I love drawing and am a huge fan of digital art 
