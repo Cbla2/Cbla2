@@ -6,7 +6,6 @@ I'm currently working on **KaleidoDraw** - a React + Typescript generative art t
 
 I am also exploring ML creative tools and focusing on full-stack development 
 
-Outside of programming, I love drawing and am a huge fan of digital art 
 <!--
 **Cbla2/Cbla2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
